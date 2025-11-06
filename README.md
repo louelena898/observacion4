@@ -3,16 +3,11 @@
 Observacion 4 - Lourdes Ch R y Giovanni S R
 
 Descripción breve del sitio probado:
-
-
-Capturas del tablero SCRUM y GitHub:
-
-Casos de prueba (de TestRail y Test Case Studio):
-
-Evidencias de ejecución y bugs encontrados
-
-Reporte Lighthouse con interpretación de métricas:
-
-Resultados del cross-browser testing:
+El sitio probado, https://testing.geekqa.net/public_html/public/index.php, consiste en una tienda virtual donde se pueden comprar dispositivos y equipos de computo.
 
 Conclusiones y recomendaciones:
+El sitio web, a pesar de cumplir con varios requisitos basicos, en cuanto aspectos visuales y de funcionabilidad.
+
+1. Mejorar los aspectos de UX/UI del sitio web.
+2. Optimizar el carrito de comprar y la wishlist.
+3. Permitir ingresar a los productos mediante los anuncios.
