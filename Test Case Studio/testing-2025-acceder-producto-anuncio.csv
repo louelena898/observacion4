@@ -1,0 +1,5 @@
+,OS: Windows 11 | Browser: Microsoft Edge 142 | Resolution: 1920x1032 | Time: 5 Nov 2025 / 10:53:10  GMT-6
+
+"#","Step","Data","Exp Result","XPath","cssSelector"
+"1","Open website","https://testing.geekqa.net/public_html/public/index.php","","",""
+"2","Click on ""Find your favourite product 1. Sign up or login2. Add your products to the cart3. Se""","","","//img[@src='https://testing.geekqa.net/public_html/public/assets/images/banner.jpeg ']","img[src='https://testing.geekqa.net/public_html/public/assets/images/banner.jpeg ']"
